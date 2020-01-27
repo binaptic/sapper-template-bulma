@@ -4,7 +4,7 @@
 
 ## Installation
 
-Based on the Rollup branch of the repo: [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
+Based on the Rollup branch of the repo [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
 
 Get this repo:
 
